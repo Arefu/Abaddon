@@ -1,0 +1,7 @@
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\bin\Debug\Abaddon.exe.config
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\bin\Debug\Abaddon.exe
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\bin\Debug\Abaddon.pdb
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\obj\Debug\Abaddon.csprojAssemblyReference.cache
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\obj\Debug\Abaddon.csproj.CoreCompileInputs.cache
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\obj\Debug\Abaddon.exe
+C:\Users\johna\Documents\Visual Studio 2019\Projects\Abaddon\Abaddon\obj\Debug\Abaddon.pdb
